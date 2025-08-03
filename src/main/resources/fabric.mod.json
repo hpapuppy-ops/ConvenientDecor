@@ -23,8 +23,8 @@
     "convenientdecor.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.14.9",
-    "fabric": ">=0.66.0",
-    "minecraft": "1.19.2"
+    "fabricloader": ">=0.15.11",
+    "fabric": ">=0.95.1",
+    "minecraft": "1.21.1"
   }
 }
